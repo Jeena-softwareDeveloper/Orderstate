@@ -1,0 +1,8 @@
+{
+    "totalOrders": 1200,
+    "shippedOrders": 900,
+    "pendingOrders": 200,
+    "deliveredOrders": 100,
+    "canceledOrders": 50
+  }
+  
